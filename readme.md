@@ -1,4 +1,4 @@
-﻿Liste des plugins S.A.R.A.H fonctionnant avec Google
+﻿Plugins S.A.R.A.H fonctionnant avec Google
 ================================================================================
 
 Les plugins nécessitent tout d'abord SpeechReco (similaire à Scribe).
