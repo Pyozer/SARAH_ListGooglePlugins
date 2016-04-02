@@ -1,16 +1,15 @@
 ﻿Plugins S.A.R.A.H fonctionnant avec Google
 ================================================================================
 
-Les plugins nécessitent tout d'abord SpeechReco (similaire à Scribe).
+Les plugins nécessitent tout d'abord Scribe.
 
-Que vous pouvez trouver ici: https://github.com/tilleul/Sarah.dictation.v2
+Que vous pouvez trouver ici: https://github.com/tilleul/Sarah.Scribe
 
-Vous pouvez toujours modifier les plugins pour l'adapter au système habitutel ou pour Scribe pour le côter Garbage ;)
 
 Prérequis
 ---------
 - Sarah v4
-- Le plugin SpeechReco
+- Le plugin Scribe
 
 Tous les plugins
 ----------------
