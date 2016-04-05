@@ -14,8 +14,8 @@ Prérequis
 Tous les plugins
 ----------------
 
-- Plugin pour la Météo: https://github.com/Pyozer/SARAH_GoogleMeteo
-- Plugin pour avoir l'âge d'une personne connu: https://github.com/Pyozer/SARAH_GoogleAge
+- Plugin pour avoir la Météo, locale ou d'une ville/pays: https://github.com/Pyozer/SARAH_GoogleMeteo
+- Plugin pour avoir l'âge ou date de naissance d'une personne connu: https://github.com/Pyozer/SARAH_GoogleAge
 - Plugin pour avoir des informations sur une ville/un objet/ou autres: https://github.com/Pyozer/SARAH_GoogleInfo
 - Plugin pour la traduction d'un mot/phrase dans la langue désiré: https://github.com/Pyozer/SARAH_GoogleTranslate
 - Plugin pour avoir l'heure locale ou d'une ville/pays étrangé: https://github.com/Pyozer/SARAH_GoogleTime
