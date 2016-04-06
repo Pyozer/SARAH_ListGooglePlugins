@@ -19,3 +19,6 @@ Tous les plugins
 - Plugin pour avoir des informations sur une ville/un objet/ou autres: https://github.com/Pyozer/SARAH_GoogleInfo
 - Plugin pour la traduction d'un mot/phrase dans la langue désiré: https://github.com/Pyozer/SARAH_GoogleTranslate
 - Plugin pour avoir l'heure locale ou d'une ville/pays étrangé: https://github.com/Pyozer/SARAH_GoogleTime
+- Plugin pour la définition d'un mot (ou pays, entreprise, objet..): https://github.com/Pyozer/SARAH_GoogleDefinition
+- Plugin pour avoir l'url d'un site que vous voulez: https://github.com/Pyozer/SARAH_GoogleURL
+- Plugin pour avoir des informations économique d'un pays (PIB, Population,...): https://github.com/Pyozer/SARAH_GoogleEco
