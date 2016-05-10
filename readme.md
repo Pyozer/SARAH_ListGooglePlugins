@@ -1,4 +1,4 @@
-﻿Plugins S.A.R.A.H fonctionnant avec Google
+﻿Plugins S.A.R.A.H utilisant les résultats de Google
 ================================================================================
 
 Les plugins nécessitent tout d'abord Scribe.
@@ -22,3 +22,4 @@ Tous les plugins
 - Plugin pour la définition d'un mot (ou pays, entreprise, objet..): https://github.com/Pyozer/SARAH_GoogleDefinition
 - Plugin pour avoir l'url d'un site que vous voulez: https://github.com/Pyozer/SARAH_GoogleURL
 - Plugin pour avoir des informations économique d'un pays (PIB, Population,...): https://github.com/Pyozer/SARAH_GoogleEco
+- Plugin pour avoir la capitale d'un pays: https://github.com/Pyozer/SARAH_GoogleCapitales
