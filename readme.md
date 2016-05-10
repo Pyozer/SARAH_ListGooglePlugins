@@ -21,5 +21,5 @@ Tous les plugins
 - Plugin pour avoir l'heure locale ou d'une ville/pays étrangé: https://github.com/Pyozer/SARAH_GoogleTime
 - Plugin pour la définition d'un mot (ou pays, entreprise, objet..): https://github.com/Pyozer/SARAH_GoogleDefinition
 - Plugin pour avoir l'url d'un site que vous voulez: https://github.com/Pyozer/SARAH_GoogleURL
-- Plugin pour avoir des informations économique d'un pays (PIB, Population,...): https://github.com/Pyozer/SARAH_GoogleEco
+- Plugin pour avoir des infos économique d'un pays (PIB, Population,..): https://github.com/Pyozer/SARAH_GoogleEco
 - Plugin pour avoir la capitale d'un pays: https://github.com/Pyozer/SARAH_GoogleCapitales
